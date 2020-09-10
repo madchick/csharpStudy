@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pythonScriptLauncher", "pythonScriptLauncher.csproj", "{45BC1338-2827-44FE-B9AA-DC18ACA4F465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BC1338-2827-44FE-B9AA-DC18ACA4F465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BC1338-2827-44FE-B9AA-DC18ACA4F465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BC1338-2827-44FE-B9AA-DC18ACA4F465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BC1338-2827-44FE-B9AA-DC18ACA4F465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2403ED22-2AB7-4B69-9444-B6A520873F16}
+	EndGlobalSection
+EndGlobal
